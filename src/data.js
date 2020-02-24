@@ -2,7 +2,7 @@ export const storeProducts = [
   {
     id: 1,
     title: 'Super Mario Bros',
-    img: 'img/product-1.png',
+    img: 'img/nes_supermariobros.png',
     price: 10,
     company: 'Nintendo',
     info:
@@ -14,7 +14,7 @@ export const storeProducts = [
   {
     id: 2,
     title: 'Super Mario Bros 3',
-    img: 'img/product-2.png',
+    img: 'img/nes_supermariobros3.png',
     price: 16,
     company: 'Nintendo',
     info:
@@ -26,7 +26,7 @@ export const storeProducts = [
   {
     id: 3,
     title: 'Final Fantasy',
-    img: 'img/product-3.png',
+    img: 'img/nes_FinalFantasy.jpg',
     price: 8,
     company: 'Square',
     info:
@@ -38,7 +38,7 @@ export const storeProducts = [
   {
     id: 4,
     title: 'Dragon Warrior',
-    img: 'img/product-4.png',
+    img: 'img/nes_dragon_warrior.jpg',
     price: 18,
     company: 'Enix',
     info:
@@ -50,7 +50,7 @@ export const storeProducts = [
   {
     id: 5,
     title: 'Bubble Bobble',
-    img: 'img/product-5.png',
+    img: 'img/nes_bubblebobble.jpg',
     price: 24,
     company: 'Taito',
     info:
@@ -62,7 +62,7 @@ export const storeProducts = [
   {
     id: 6,
     title: 'Legend of Zelda',
-    img: 'img/product-6.png',
+    img: 'img/nes_legendofzelda.jpg',
     price: 17,
     company: 'Nintendo',
     info:
@@ -74,7 +74,7 @@ export const storeProducts = [
   {
     id: 7,
     title: 'Crystalis',
-    img: 'img/product-7.png',
+    img: 'img/nes_crystalis.jpg',
     price: 30,
     company: 'SNK',
     info:
@@ -86,7 +86,7 @@ export const storeProducts = [
   {
     id: 8,
     title: 'Final Fantasy Guide by Nintendo Power',
-    img: 'img/product-8.png',
+    img: 'img/nes_finalfantasy_guide.jpg',
     price: 4,
     company: 'Nintendo',
     info:
