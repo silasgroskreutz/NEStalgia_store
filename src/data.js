@@ -99,8 +99,8 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: 'Super Mario',
-  img: 'img/product-1.png',
+  title: 'Super Mario Bros',
+  img: 'img/nes_supermariobros.png',
   price: 10,
   company: 'Nintendo',
   info:
