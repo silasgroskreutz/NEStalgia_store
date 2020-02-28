@@ -1,15 +1,18 @@
-import React from 'react';
-import { Switch, Route } from 'react-router-dom';
+import React, { Component } from 'react';
+
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Route, Switch } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import ProductList from './components/ProductList';
 import Details from './components/Details';
-import Cart from './components/Cart';
+
 import Default from './components/Default';
+import Cart from './components/Cart';
 import Modal from './components/Modal';
 
-function App() {
+class App extends Component {
+render() {
   return (
     <React.Fragment>
       <Navbar />
@@ -22,6 +25,7 @@ function App() {
       <Modal />
     </React.Fragment>
   );
+ }
 }
 
 export default App;
