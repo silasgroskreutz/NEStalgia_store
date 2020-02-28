@@ -5,6 +5,7 @@
   --mainDark: #232528;
   --mainYellow: #ffa400;
   --mainRed: #ff1414;
+  --maingray: #808080;
 }
 
 body {
@@ -14,13 +15,17 @@ body {
 }
 
 .text-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Press Start 2P', sans-serif;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
 
 .text-blue {
   color: var(--mainBlue);
+}
+
+.text-red {
+  color: var(--mainRed);
 }
 
 .text-bright {
